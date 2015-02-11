@@ -1,2 +1,2 @@
 # FunBasket
-# This is an iPhone App I designed with Corona SDK and was available on App Store with the name 'Tokri'.
+# This is an iPhone App developed using Corona SDK and was available on App Store with the name 'Tokri'.
